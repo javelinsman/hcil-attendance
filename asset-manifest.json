@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hcil-attendance/static/css/main.a617e044.chunk.css",
+    "main.js": "/hcil-attendance/static/js/main.91b97d38.chunk.js",
+    "main.js.map": "/hcil-attendance/static/js/main.91b97d38.chunk.js.map",
+    "runtime-main.js": "/hcil-attendance/static/js/runtime-main.42966aa2.js",
+    "runtime-main.js.map": "/hcil-attendance/static/js/runtime-main.42966aa2.js.map",
+    "static/js/2.c061f020.chunk.js": "/hcil-attendance/static/js/2.c061f020.chunk.js",
+    "static/js/2.c061f020.chunk.js.map": "/hcil-attendance/static/js/2.c061f020.chunk.js.map",
+    "static/js/3.51597147.chunk.js": "/hcil-attendance/static/js/3.51597147.chunk.js",
+    "static/js/3.51597147.chunk.js.map": "/hcil-attendance/static/js/3.51597147.chunk.js.map",
+    "index.html": "/hcil-attendance/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hcil-attendance/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c061f020.chunk.js.LICENSE.txt": "/hcil-attendance/static/js/2.c061f020.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42966aa2.js",
+    "static/js/2.c061f020.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.91b97d38.chunk.js"
+  ]
+}
